@@ -9,9 +9,9 @@ line every run.
 import os
 
 LINE = (
-    "So\u2026 my proximity sensor says we are 0.4 metres apart, and my "
-    "small-talk module has been buffering for three floors. "
-    "Nice weather we are simulating, yes?"
+    "So\u2026 my proximity sensor says 0.4 metres apart, my "
+    "small-talk module has buffered for three floors, and my "
+    "firmware still picked: \u201cNice weather we\u2019re simulating.\u201d"
 )
 
 
